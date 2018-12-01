@@ -3,12 +3,14 @@
   font-family: Arial, Verdana, sans-serif;
 } 
 body {
-  background-image: url("https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiou_-z4v3eAhWRJXwKHUvrA1gQjRx6BAgBEAU&url=https%3A%2F%2Funsplash.com%2Fsearch%2Fphotos%2Fwalking&psig=AOvVaw3EG84qvKUjS5321frBMVaO&ust=1543724054364449");
+  background-image: url("https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/8-lonely-man-walking-on-the-beach-at-sunset-mohamed-elkhamisy.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: top center;
   background-size: contain;
+  background-color: rgba(71, 111, 162, 0.39);
   margin: 0 auto;
+  width:100%;
 }
 /* Minimum aspect ratio */
 @media (min-aspect-ratio: 1/1) {
